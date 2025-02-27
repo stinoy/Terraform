@@ -1,0 +1,7 @@
+aws_region           = "ap-south-1"
+directory_dns_name   = "stinoy.com"
+directory_netbios_name = "stinoy"
+admin_password      = "Asd123***"
+vpc_id              = "vpc-02990fd1abd6a725b"
+subnet_1           = "subnet-05927d1bd3d59da34"
+subnet_2           = "subnet-0d04af1ece6b86486"
