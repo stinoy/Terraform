@@ -1,5 +1,3 @@
-Here's a concise README summary for your Git repository:  
-
 ---
 
 # Microsoft AD Deployment with Terraform  
@@ -31,4 +29,4 @@ This Terraform configuration automates the deployment of **AWS Directory Service
 
 ---
 
-Let me know if you need any modifications! 🚀
+
