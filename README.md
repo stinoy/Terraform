@@ -18,7 +18,11 @@ This Terraform configuration automates the deployment of **AWS Directory Service
    ```bash
    terraform apply -auto-approve | tee apply.log
    ```  
-3. Once deployed, the **User and Group Management** feature is enabled automatically.  
+3. To delete the deployed Terraform resources, use the following command:
+   ```bash
+   terraform destroy -auto-approve
+   ```  
+4. Once deployed, the **User and Group Management** feature is enabled automatically.  
 
 ## Outputs  
 - **Directory ID** is displayed after successful deployment.  
